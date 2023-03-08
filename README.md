@@ -1,4 +1,4 @@
-# MQTTTiles
+# MQTTTiles with Vue.js
 ![Logo](/misc/logo.png?raw=true "MQTTTiles logo")
 > Dashboard based on MQTT. Supports MQTT 5.0 and 3.1.X protocols, connections to multiple brokers, multiple subscribe widgets. Saves configuration in browser's local cache or in retain message on broker.
 
